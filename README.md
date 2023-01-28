@@ -5,9 +5,6 @@
 
 My name is Jhon Medina and I'm a software developer/DevOps engineer. I'm from Dominican Republic,  You can find me on.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ## &#x270d; Blog & Writing
 
 Besides coding, I also like music and playing video games like Valorant.
