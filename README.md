@@ -1,6 +1,6 @@
 
 # Hello, folks! " 
-![img 2](https://user-images.githubusercontent.com/75251753/215236439-9e169e83-4274-4091-8cb8-e90d16b6a422.png)
+![last](https://user-images.githubusercontent.com/75251753/215240047-85165ffa-b970-4edb-a7f8-75cd314b61ec.jpg)
 
 
 My name is Jhon Medina and I'm a software developer/DevOps engineer. I'm from Dominican Republic,  You can find me on.
