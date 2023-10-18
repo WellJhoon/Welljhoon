@@ -1,5 +1,3 @@
-
-# Hello, folks! " 
 ![last](https://user-images.githubusercontent.com/75251753/215240047-85165ffa-b970-4edb-a7f8-75cd314b61ec.jpg)
 
 
